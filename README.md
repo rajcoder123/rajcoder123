@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Ankit Rajput.
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning  about Data Analytics. 
-- 💞️ I’m looking Forward to Give Some Data Science/Data Analytics Projects.
+- 👀 I’m interested in Software Developer.
+- 🌱 I’m currently learning  Data Structure And Algorithm and Frontend Development. 
+- 💞️ I’m looking Forward to Give Some Development Projects.
 - 📫 How to reach me LinkedIn Profile:- https://www.linkedin.com/in/ankit-rajput-6178b6203/
 
 <!---
